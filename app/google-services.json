@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607301087853",
+    "firebase_url": "https://sprintjobs-fb9d9.firebaseio.com",
+    "project_id": "sprintjobs-fb9d9",
+    "storage_bucket": "sprintjobs-fb9d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607301087853:android:7605aa000662e3e7",
+        "android_client_info": {
+          "package_name": "com.example.tusha.sprintjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607301087853-pe5ndgouiaqmdep7cu044jjo5fnlvo2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tusha.sprintjobs",
+            "certificate_hash": "04d0dbaf525c1bfce84dcb2f7f1cc1780c3e6b35"
+          }
+        },
+        {
+          "client_id": "607301087853-tr62vpkbnqtbkm1jpt6qhptjaou7bait.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMXJ31ULg9a9ON7g_waoKSr0XjX4pJsU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607301087853-tr62vpkbnqtbkm1jpt6qhptjaou7bait.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
